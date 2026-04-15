@@ -1,5 +1,8 @@
 { 
     "elipse": {
         "version": "1.0.0"
+    },
+    "ow" = {
+        "version": "1.0.0"
     }
 }
